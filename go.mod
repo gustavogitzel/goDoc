@@ -1,4 +1,4 @@
-module godoc
+module goDoc
 
 go 1.20
 
