@@ -1,4 +1,4 @@
-module goDoc
+module github.com/gustavogitzel/goDoc
 
 go 1.20
 
